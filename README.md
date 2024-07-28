@@ -33,7 +33,7 @@ The analysis provides insights into customer preferences and order patterns, hel
 3. Run the SQL queries provided in the `sql/` directory.
 
 ## Contact
-For any questions, feel free to reach out at [vinayakkongari19@gmail.com].
+For any questions, feel free to reach out at [vinayakkongari19@gmail.com]
 
 # Conclusion:
 The sales analysis of Pizza Hut orders has provided a comprehensive understanding of sales performance, customer preferences, and ordering patterns. By leveraging SQL queries and visualizations, we identified top-selling products, peak order times, and key revenue contributors. These insights can inform strategic decisions to optimize the menu, improve inventory management, and tailor marketing efforts, ultimately driving higher sales and customer satisfaction. Future work can include deeper analyses of seasonal trends, regional preferences, and predictive modeling to forecast future sales and trends. The findings from this analysis serve as a robust foundation for data-driven decision-making at Pizza Hut.
