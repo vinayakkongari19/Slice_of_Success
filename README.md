@@ -1,4 +1,4 @@
-# Comprehensive Sales Analysis of Pizza Hut Orders
+# Slice of Success:Analyzing Pizza Hut's Order Trends
 
 ## Project Overview
 This project aims to analyze the sales data of Pizza Hut Store to derive actionable insights and improve business strategies. Utilizing four interconnected datasets—pizzas, pizza-types, orders, and order-details—we explored various aspects of sales performance, customer preferences, and ordering patterns.
